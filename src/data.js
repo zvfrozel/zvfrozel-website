@@ -286,6 +286,12 @@ export const ARTICLES = [
     outlet: "Formal reasoning pathways, proof systems, and foundational mathematical structures",
     link: "",
   },
+   {
+    title: "Contributed proof — graph theory paper by Archit Manas",
+    outlet: "arXiv preprint · proof of one theorem credited to me",
+    date: "2026",
+    link: "https://arxiv.org/abs/2608.06418",
+  },
 ];
 
 /* ---- Leadership, teaching & activities ---- */
